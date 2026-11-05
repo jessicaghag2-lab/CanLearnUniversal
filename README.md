@@ -58,6 +58,12 @@ Inclusion is a great advantage, not a cost, because it improves the process itse
 - **Quality:** a meeting where everyone can follow it produces better questions, better challenges, and better decisions. Errors that would have passed unnoticed get caught, because more people can actually hear them.
 - **Procedural fairness:** a participant who can follow, ask, and challenge is a participant who has been heard. That is the definition of J above — and it is the definition that does not use the word "fair" in it.
 
+## Why this matters
+
+It helps advocate for the greater Punjabi community, wherever they may be. To empower and uplift. Despite bad, horrible pasts. To move from bitterness and cynicism — to better, and optimistic, and hopeful. ☺️
+
+A language is not only a way of speaking. It is a way of belonging. When a Punjabi speaker can follow a meeting, a class, a hearing, or a family call in their own language, they are not only included. They are empowered — and a community that is empowered, wherever its people are, can move forward together, from what was, toward what can be.
+
 ## What this project is, and is not
 
 - **Is:** a starter proof, in formal logic and mathematics, that Punjabi captions are practicable, much needed, and fairness-improving — built to be tested, corrected, and improved.
