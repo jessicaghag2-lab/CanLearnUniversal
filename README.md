@@ -64,6 +64,8 @@ It helps advocate for the greater Punjabi community, wherever they may be. To em
 
 A language is not only a way of speaking. It is a way of belonging. When a Punjabi speaker can follow a meeting, a class, a hearing, or a family call in their own language, they are not only included. They are empowered — and a community that is empowered, wherever its people are, can move forward together, from what was, toward what can be.
 
+It ties into our mental health advocacy passions and hobbies, too. Being heard in your own language — being understood, not talked past — is mental health. It is what "be someone's owl" means in practice: the lookout who makes sure nobody is left out of the conversation because of the language they speak.
+
 ## What this project is, and is not
 
 - **Is:** a starter proof, in formal logic and mathematics, that Punjabi captions are practicable, much needed, and fairness-improving — built to be tested, corrected, and improved.
