@@ -1,6 +1,6 @@
 # Punjabi Captions Are Practicable — A Formal Proof
 
-**Status: DRAFT, PRIVATE, NOT PUBLISHED, NOT SENT. A starter project, built Nov 5, 2026, at Jazz's direction — to get it initiated, to show that adding Punjabi to Zoom's captions is practicable and much needed, and that including the people who speak that language is a great advantage that improves quality and procedural fairness. Using formal logic and mathematics.**
+**Status: DRAFT, PUBLIC. A starter project, built Nov 5, 2026, at Jazz's direction — to get it initiated, to show that adding Punjabi to Zoom's captions is practicable and much needed, and that including the people who speak that language is a great advantage that improves quality and procedural fairness. Using formal logic and mathematics. Not sent to Zoom yet.**
 
 **Question:** Should Punjabi be added to Zoom's automated and translated captions?
 
